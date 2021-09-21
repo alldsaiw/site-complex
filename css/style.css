@@ -21,3 +21,20 @@ img {
 	max-width: 100%;
 }
 
+/*Default classes start*/
+.d-flex {
+	display: flex;
+}
+.justify-content-between {
+	justify-content: space-between;
+}
+.align-items-center {
+	align-items: center;
+}
+/*Default classes end*/
+
+.container{
+	max-width: 1170px;
+	margin: auto;
+	padding: 0 15px;
+}
