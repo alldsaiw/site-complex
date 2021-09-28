@@ -146,3 +146,7 @@ img {
 	.position-rel {
 		position: relative;
 	}
+
+	.center {
+		text-align: center;
+	}
